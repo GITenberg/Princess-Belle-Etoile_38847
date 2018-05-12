@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Madame_d%27Aulnoy
     - http://fr.wikipedia.org/wiki/Marie-Catherine_d%27Aulnoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38847#Princess-Belle-Etoile
 gutenberg_issued: '2012-02-12'
 gutenberg_type: Text
 identifiers:
